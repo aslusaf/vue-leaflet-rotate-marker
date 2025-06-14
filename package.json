@@ -27,12 +27,12 @@
     "dist"
   ],
   "main": "dist/VueLMarkerRotate.cjs.js",
-  "unpkg": "dist/VueLMarkerRotate.umd.js",
+  "unpkg": "dist/VueLMarkerRotate.umd.cjs",
   "module": "dist/VueLMarkerRotate.js",
   "exports": {
     ".": {
       "import": "./dist/VueLMarkerRotate.js",
-      "require": "./dist/VueLMarkerRotate.umd.js"
+      "require": "./dist/VueLMarkerRotate.umd.cjs"
     }
   },
   "scripts": {
